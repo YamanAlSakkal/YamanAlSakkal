@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaman Al Sakkal</h1>
 <h3 align="center">Student Developer actively seeking to improve my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamanalsakkal&label=Profile%20views&color=0e75b6&style=flat" alt="yamanalsakkal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamanalsakkal" alt="yamanalsakkal" /></a> </p>
-
 - 📫 How to reach me **sakkal2005@gmail.com**
 
 <h3 align="left">Connect with me:</https://www.linkedin.com/in/yaman-al-sakkal-4b0ba3358/>
