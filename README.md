@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaman Al Sakkal</h1>
 <h3 align="center">Student Developer actively seeking to improve my skills.</h3>
 
-- 📫 How to reach me **sakkal2005@gmail.com**
+- 📫 How to reach out to me **sakkal2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
